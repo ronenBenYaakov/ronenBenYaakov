@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronen Ben Yaakov</h1>
-<h3 align="center">A passionate Full Stack developer from Israel</h3>
+<h3 align="center">A passionate Full Stack and AI developer from Israel</h3>
 
 - 🔭 I’m currently working on A Video Chat app integrating ML **HelloFriend**
 
