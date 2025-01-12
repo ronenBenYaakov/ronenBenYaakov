@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronen Ben Yaakov</h1>
-<h3 align="center">A passionate Full Stack and AI developer from Israel</h3>
-
-- 🔭 I’m currently working on A Video Chat app integrating ML **HelloFriend**
-
-- 👨‍💻 For Portfolio [https://ronenbenyaakov.github.io/RonenPortfolio.github.io/](https://ronenbenyaakov.github.io/RonenPortfolio.github.io/)
-
-- 📝 I regularly write articles on [linkedin.com](linkedin.com)
+<h3 align="center">A Third Year Computer Science Student In The Open University Of Israel</h3>
 
 - 📫 How to reach me **ronena72018@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1u5kCHi0gE_Xsj5YIfOlw5R0gJEuJmnncQ4Y_x52YQwg/edit?usp=sharing](https://docs.google.com/document/d/1u5kCHi0gE_Xsj5YIfOlw5R0gJEuJmnncQ4Y_x52YQwg/edit?usp=sharing)
 
 - ⚡ Fun fact **I like Martial Arts**
 
