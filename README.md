@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronen Ben Yaakov</h1>
 <h3 align="center">A third year computer science major with 80GPA</h3>
 
-- 🔭 I’m currently working on **Rust Memory Allocator**
+- 🔭 I’m currently working on **Rust OS MultiThreading Support**
 
 - 🌱 I’m currently learning **Bsc in Computer Science**
 
