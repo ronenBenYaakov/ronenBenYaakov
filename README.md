@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ronen Ben Yaakov</h1>
-<h3 align="center">A third year computer science major with 80GPA</h3>
+<h3 align="center">A computer science Graduate with 80GPA</h3>
 
-- 🔭 I’m currently working on **Rust OS MultiThreading Support**
-
-- 🌱 I’m currently learning **Bsc in Computer Science**
-
-- 📝 I regularly upload my projects on [github.com/ronenBenYaakov](github.com/ronenBenYaakov)
-
+Im Currently learning about GPU programming, Compiler Design and Device Driver Programming
+In The next few months im about to start my M.sc studies in Software Engineering
 - 📫 How to reach me **ronena72018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
