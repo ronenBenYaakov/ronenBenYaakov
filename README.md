@@ -2,6 +2,7 @@
 <h3 align="center">A computer science Graduate with 80GPA</h3>
 
 🧑‍💼 Im currently working as a Computer vision Engineer in Neway Copilot
+
 💻 Im currently working on my PCIe Driver development project
 
 ✨honorable projects: Rust-VMware with userspace support, PCIe Ethrenet Driver, Windows I/O controller, C90 
