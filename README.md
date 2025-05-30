@@ -5,7 +5,7 @@
 
 • 💻 Im currently working on my PCIe Driver development project
 
-• ✨honorable projects: Rust-VMware with userspace support, PCIe Ethrenet Driver, Windows I/O controller, C90 
+• ✨honorable projects: Rust-VMware with userspace support, PCIe Ethrenet Driver, Windows I/O controller, C90 Assembler
 
 • 🎓 B.sc Computer Science Graduate in the Open University Of Israel
 
