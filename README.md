@@ -60,12 +60,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ronenbenyaakov/ronenbenyaakov/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/ronenbenyaakov/ronenbenyaakov/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ronen-ben-yaakov-549053267/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
